@@ -23,3 +23,5 @@ determineNumEQs.m - Determines the number of earthquakes either per continent (i
 plotNumEQs.m - Plots a bar graph for the number of earthquakes per continent
 
 createEQMap.m - Creates a map visualization of the US, where each state is assigned a color based on how many earthquakes happened there.
+
+# Graphs 
