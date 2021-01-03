@@ -25,3 +25,6 @@ plotNumEQs.m - Plots a bar graph for the number of earthquakes per continent
 createEQMap.m - Creates a map visualization of the US, where each state is assigned a color based on how many earthquakes happened there.
 
 # Graphs 
+
+
+![Graph1](https://github.com/Nico-Jimene/Earthquake-Analyzer/blob/main/Graph1.PNG)
