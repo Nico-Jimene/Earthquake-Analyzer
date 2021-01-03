@@ -29,3 +29,4 @@ createEQMap.m - Creates a map visualization of the US, where each state is assig
 
 ![Graph1](https://github.com/Nico-Jimene/Earthquake-Analyzer/blob/main/Graph1.PNG)
 ![Graph2](https://github.com/Nico-Jimene/Earthquake-Analyzer/blob/main/Graph2.PNG)
+![Graph3](https://github.com/Nico-Jimene/Earthquake-Analyzer/blob/main/Photo1.PNG)
