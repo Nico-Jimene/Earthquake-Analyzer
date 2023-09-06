@@ -1,9 +1,3 @@
-% Nicolas Jimenez, nejimene
-% nejimene@ncsu.edu
-% 11/07/2020
-% Section 205
-% Project 3: Earthquake Analysis, Fall 2020
-
 function createEQMap(EQsPerState)
 %creates a visualization of the US, where each state is assigned a color
 %based on the number of earthquakes in the state. It does NOT show AK, HI and PR!
